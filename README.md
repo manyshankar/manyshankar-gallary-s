@@ -1,3 +1,3 @@
 # manyshankar-gallary-s
 gallary's
-https://manushankar20.github.io/manyshankar-gallary-s/
+https://manyshankar.github.io/manyshankar-gallary-s/
